@@ -40,7 +40,6 @@ h1 { font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream
     right: 0;
     bottom: 0;
     z-index: -2; /* ensure the effect doesn't cover the text */
-    background: radial-gradient(hsl(154 5% 15%) 0%, hsl(154 50% 5%) 70%);
   }
 
   @keyframes lines {
